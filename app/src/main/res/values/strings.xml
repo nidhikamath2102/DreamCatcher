@@ -1,3 +1,28 @@
 <resources>
     <string name="app_name">DreamCatcher</string>
+    <string name="dream_header">Dream</string>
+    <string name="entries_header">Entries</string>
+    <string name="fulfilled">Fulfilled</string>
+    <string name="deferred">Deferred</string>
+    <string name="reflections">Reflections: %1$d</string>
+    <string name="title_hint">My First Dream</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hint_reflection_text">Enter Reflection Text</string>
+    <string name="reflection_dialog_title">Add Reflection</string>
+    <string name="reflection_dialog_positive">Add</string>
+    <string name="reflection_dialog_negative">Cancel</string>
+    <string name="add_reflection_button_content">Add New Reflection</string>
+    <string name="new_dream">New Dream</string>
+    <string name="change_theme">Change Theme</string>
+    <string name="dream_photo">Dream Photo</string>
+    <string name="take_photo_menu">Take Photo</string>
+    <string name="no_dreams">No dreams available. Click New Dream to add one!</string>
+    <string name="photo_detail">Photo Detail</string>
+    <string name="share_dream">Share Dream</string>
+    <string name="delete_dream_menu">Delete Dream</string>
+    <string name="reflection_text">Reflections:</string>
+    <string name="fulfilled_text">This dream has been Fulfilled.</string>
+    <string name="deferred_text">This dream has been Deferred.</string>
+    <string name="last_updated_date">Last updated %1$s</string>
+    <string name="untitled_dream">Untitled Dream</string>
 </resources>
